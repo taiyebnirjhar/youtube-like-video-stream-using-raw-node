@@ -1,3 +1,6 @@
-uploads/*.mp4
+# Ignore all .mp4 files anywhere in the project
+*.mp4
 **/*.mp4
+
+# Ignore macOS system files
 .DS_Store
