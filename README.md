@@ -8,7 +8,7 @@ This project demonstrates how to build a **smooth, efficient, chunked video stre
 
 ## • Goal
 
-Deliver a **Large video ** in chunks so users can **scrub and play instantly** without waiting for the full file to preload.
+Deliver a **Large video** in chunks so users can **scrub and play instantly** without waiting for the full file to preload.
 
 ---
 
